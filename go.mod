@@ -1,4 +1,4 @@
-module github.com/darrenyjq/middleware
+module github.com/darrenyjq/kratos-middleware
 
 go 1.18
 
